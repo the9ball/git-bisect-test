@@ -1,6 +1,6 @@
 ﻿#!/bin/bash
 
-echo "baz
+echo "baz"
 
 exit 1
 
