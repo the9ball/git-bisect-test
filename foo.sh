@@ -1,6 +1,6 @@
 ﻿#!/bin/bash
 
-echo "b
+echo "
 
 exit 1
 
