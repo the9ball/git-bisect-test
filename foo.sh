@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
 
-echo "ba
+echo "b
 
 exit 0
