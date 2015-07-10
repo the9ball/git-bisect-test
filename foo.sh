@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
 
-echo "bar"
+echo "bar
 
 exit 0
