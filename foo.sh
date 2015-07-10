@@ -1,6 +1,6 @@
 ﻿#!/bin/bash
 
-echo "bar
+echo "ba
 
 exit 1
 
